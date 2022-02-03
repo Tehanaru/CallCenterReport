@@ -16,7 +16,7 @@ This example contains over 30,000 lines of data, and organizes them into a repor
 * Total calls within the report period, answer percentage, total unique callers, etc.
 
 
-Key Formula used:
+Key Formulae used:
 * Sumproduct() - Used as a sieve to organzie data around call type (answered / abandoned), time of day, weekday, and add up the call handling time.
 * Index() Match() paired to organize data on the reports.
 * Countifs and String processing formula to create helper columns and make the reports easier to read.
